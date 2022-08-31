@@ -31,3 +31,11 @@ costototal=ltusado*costolit;
 Console.Clear();
 
 Console.WriteLine("");
+
+Console.WriteLine("Usted realizó un recorrido de: " +distancia+ " KM");
+Console.WriteLine("En una velocidad promedio de " +velocidad+ " KM/h");
+Console.WriteLine("Lo cual le tomó un tiempo de: " +tiempo+ " horas");
+Console.WriteLine("");
+Console.WriteLine("Su vehiculo tiene un rendimiento de "+kilomlit+ " KM/L");
+Console.WriteLine("El litro de combustible esta a: C$ "+costolit); 
+Console.WriteLine("Por lo tanto el costo estimado del viaje es de: "+costototal+ " Córdobas");
