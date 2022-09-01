@@ -1,0 +1,15 @@
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\obj\Debug\net6.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\bin\Debug\net6.0\Ejercicio2.exe
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\bin\Debug\net6.0\Ejercicio2.deps.json
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\bin\Debug\net6.0\Ejercicio2.runtimeconfig.json
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\bin\Debug\net6.0\Ejercicio2.dll
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\bin\Debug\net6.0\Ejercicio2.pdb
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\obj\Debug\net6.0\Ejercicio2.dll
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\obj\Debug\net6.0\refint\Ejercicio2.dll
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\obj\Debug\net6.0\Ejercicio2.pdb
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\chelo\Documents\1. Informática educativa\1er año\3. 2do Semestre\Desarrollo de Apps 2\VSC_desApp2\Semana4_Marcelo\Ejercicio2\obj\Debug\net6.0\ref\Ejercicio2.dll
