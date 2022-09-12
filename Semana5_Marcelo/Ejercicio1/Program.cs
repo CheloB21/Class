@@ -50,19 +50,19 @@ Console.SetCursorPosition(27, 7);
 
 val7 = Convert.ToChar(Console.ReadLine()!);
 
-if (val1 == 'c')
+if (val1 == 'C')
     sumapts += 1;
-if (val2 == 'E');
+if (val2 == 'E')
     sumapts += 1;
-if (val3 == 'G');
+if (val3 == 'G')
     sumapts += 1;
-if (val4 == 'D');
+if (val4 == 'D')
     sumapts += 1;
-if (val5 == 'F');
+if (val5 == 'F')
     sumapts += 1;
-if (val6 == 'B');
+if (val6 == 'B')
     sumapts += 1;
-if (val7 == 'A');
+if (val7 == 'A')
     sumapts += 1;
 
 Console.WriteLine("");
